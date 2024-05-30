@@ -1,3 +1,6 @@
+# Debt-calculator-SuperMoney
+
+
 ## Available Scripts
 
 To install all the dependencies, you can run:
@@ -42,9 +45,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Financial Library Document
 You can learn more about the [financialjs library](https://financialjs.netlify.app/)
 
-## Learn More
+## TASK
+Assignment: Build a browser based Debt Consolidation Savings Calculator
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Background: Consumers may have many high interest debts, like auto loans, credit cards, or other installment loans. They can save money by combining all of their high interest debts into a single loan with a lower interest rate.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-# Debt-calculator-SuperMoney
+We want to help consumers determine exactly how much money they can save by consolidating their loans.
+
+Description: Use the prototype to create a browser based debt consolidation savings calculator.
+
+Users can enter the details of their multiple high interest debts, and the calculator will show them how much they can save with a single consolidated loan. The amount of the new loan will be the sum of the outstanding balances of the existing loans. The user can change the potential term and APR of their consolidated loan to see how those affect the monthly payments and overall repayment.
+
+The solution would preferably be written in React, but any modern Javascript framework will be acceptable (not JQuery). The submission should run in any modern browser (IE compatibility not required) A financial calculations library has been included to simplify the loan calculations. Check the link for documentation. Some people seem to have issues figuring out how to use the recommended library, so feel free to use other libraries.
+
+Submitting the Solution: Create a new private repo in GitHub and invite maxSupermoney so that we can review the solution. Please let us know how many hours took you to complete the challenge.
+
+### Links
+Prototype: https://www.figma.com/proto/LVGPlj3qxywOt4zPagrFTX/Debt-Consolidation-Savings-Calculator?node-id=1%3A2&scaling=min-zoom&page-id=0%3A1
+Finance.js Loan Library: https://trentrichardson.com/examples/FinanceJs/index.html
+
