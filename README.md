@@ -45,6 +45,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 ## Financial Library Document
 You can learn more about the [financialjs library](https://financialjs.netlify.app/)
 
+## Future improvements
+There are some edge cases where NaN might get displayed for wrongful entry. A better check for user input can be done here, ensuring the right monthly payment is entered for a certain amount of debt with the corresponding APR.
+
 ## TASK
 Assignment: Build a browser based Debt Consolidation Savings Calculator
 
